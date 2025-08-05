@@ -1,0 +1,18 @@
+[agent]
+type = sftp
+host = 52.199.69.215
+user = ubuntu
+key_file = ~/Downloads/my-key.pem
+shell_type = unix
+md5sum_command = md5sum
+sha1sum_command = sha1sum
+
+[u-aizu]
+type = sftp
+host = std1dc33.u-aizu.ac.jp
+user = s1330019
+pass = j62ctoBmiDtd8HxK_ex2F33xMFvn8LW1qHzblFy5Eg
+shell_type = unix
+md5sum_command = md5sum
+sha1sum_command = sha1sum
+

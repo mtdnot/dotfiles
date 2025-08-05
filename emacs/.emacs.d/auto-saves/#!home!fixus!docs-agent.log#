@@ -1,0 +1,172 @@
+                                                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                                                                                                        
+2025-06-26 01:28:56,365 - docs_agent - INFO -    → Resolved 14 file paths                                                     
+2025-06-26 01:28:56,365 - docs_agent - INFO - 4. 短縮パスを生成中...                                                          
+2025-06-26 01:28:56,366 - docs_agent - INFO -    → 14 個の短縮パスを生成                                                      
+2025-06-26 01:28:56,366 - docs_agent - INFO - 5. 対象ドキュメントをフィルタリング中...                                        
+2025-06-26 01:28:56,520 - docs_agent - INFO - フィルタリング完了: 111501ドキュメント → 264ドキュメント                        
+2025-06-26 01:28:56,520 - docs_agent - INFO -    → 264 個のチャンクが対象                                                     
+2025-06-26 01:28:56,520 - docs_agent - INFO -    対象ファイル一覧 (12 ファイル):                                              
+2025-06-26 01:28:56,520 - docs_agent - INFO - 6. ベクトルストアを作成中...                                                    
+2025-06-26 01:28:56,520 - docs_agent - INFO - 新しいドキュメントを追加中... (264件)                                           
+2025-06-26 01:28:59,364 - docs_agent - ERROR - ベクトルストア作成エラー: Error code: 429 - {'error': {'message': 'You exceeded
+ your current quota, please check your plan and billing details. For more information on this error, read the docs: https://pl
+atform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quo
+ta'}}                                                                                                                         
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 処理中にエラーが発生しました: Error code: 429 - {'error': {'message': 'You exce
+eded your current quota, please check your plan and billing details. For more information on this error, read the docs: https:
+//platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient
+_quota'}}                                                                                                                     
+2025-06-26 01:28:59,364 - docs_agent - ERROR - 詳細なエラー情報:                                                              
+Traceback (most recent call last):                   

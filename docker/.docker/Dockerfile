@@ -8,7 +8,7 @@ WORKDIR /app
 # 必要なシステムパッケージをインストール
 # gitはコードリポジトリと連携する際に必要になることが多いです。
 RUN apt-get update && apt-get install -y \
-    git \
+    git docker.io procps gh \
     sudo \
     && rm -rf /var/lib/apt/lists/*
 
@@ -23,4 +23,5 @@ USER claudeuser
 # コンテナ起動時に自動で実行するコマンドを設定。
 # 基本的にはシェルを起動しておき、コンテナ内で手動でclaudeコマンドを実行します。
 CMD ["bash"]
-RUN mkdir -p /app/project && chown -R claudeuser:claudeuser /app/project
+RUN mkdir -p /app/ && chown -R claudeuser:claudeuser /app/
+#RUN mkdir $HOME/.claude

@@ -1,6 +1,6 @@
 # 使用するベースイメージ。Claude Codeの要件（Node.jsなど）を満たすものを選びます。
 # Alpineのような軽量なものを選ぶとイメージサイズが小さくなります。
-FROM node:20-slim
+FROM node:18.20.8-slim
 
 # コンテナ内の作業ディレクトリを設定
 WORKDIR /app
@@ -24,4 +24,7 @@ USER claudeuser
 # 基本的にはシェルを起動しておき、コンテナ内で手動でclaudeコマンドを実行します。
 CMD ["bash"]
 RUN mkdir -p /app/ && chown -R claudeuser:claudeuser /app/
+
 #RUN mkdir $HOME/.claude
+
+
